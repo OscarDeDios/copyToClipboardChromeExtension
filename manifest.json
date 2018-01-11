@@ -18,6 +18,9 @@
         }
     },
     "permissions": [
-
+        "clipboardWrite"
+    ],
+    "web_accessible_resources": [
+        "screenShot.jpg"
     ]
 }
